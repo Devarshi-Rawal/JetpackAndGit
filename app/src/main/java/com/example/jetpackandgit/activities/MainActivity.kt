@@ -1,7 +1,8 @@
-package com.example.jetpackandgit
+package com.example.jetpackandgit.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.jetpackandgit.R
 
 class MainActivity : AppCompatActivity() {
 
